@@ -1,6 +1,7 @@
 # espYoutubeWrapper
 
 An Arduino compatible wrapper for the Youtube Data API.
+It greatly increases the capabilities of arduino-youtube-api by witnessmenow.
 
 ## Features
 
@@ -9,7 +10,7 @@ It is currently able to fetch the Channels, Videos, Playlists and PlaylistItems 
 
 ## Installation
 
-The wrapper will be made installable via the arduino library manager soon™.
+You can currently install the library by importing a .zip release in the Arduino IDE.
 
 
 ## Usage
